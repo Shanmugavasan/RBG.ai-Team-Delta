@@ -4,4 +4,4 @@
 
 # Status == "Live transcription :white_check_mark:" "Live Summarization :o:"
 
-# Contributions - "Shanmugavasan R - Audio record chunking", "Janaranjan E - Transcription chunked audio"
+# Contributions - "Shanmugavasan R - 1. Audio record chunking. 2. Large file chunking and transcribing", "Janaranjan E - 1.) Transcription chunked audio 2.) Live audio transcription without chunking."
